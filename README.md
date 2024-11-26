@@ -5,11 +5,20 @@ Estou documentando todo o meu aprendizado para que possa revisitar e esclarecer 
 Como usar este repositorio:
 
 1. Clone o repositorio via HTTPS ou SSH
-2. Instale as dependecias:
-    `npm install`
-3. Entre em algum modulo/pasta
+```bash
+git clone https://github.com/vitorryan/react_studyng.git #Clonar via HTTPS
+
+git clone git@github.com:vitorryan/react_studyng.git #Clonar via SSH
+```
+2. Entre em algum modulo/pasta
+3. Instale as dependecias:
+```bash
+npm install
+```
 4. Execute o projeto:
-    `npm start`
+```bash
+npm start
+```
 
 ## Contribuição
 Para contribuir, siga estas etapas:
